@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc5b8777-fa4a-4a1e-bb5d-72c1fec43914" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/canvasjs.min.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="27Et5ya8IYyXWO2uewCocnx1Ijc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\files\pusl2020" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc5b8777-fa4a-4a1e-bb5d-72c1fec43914" name="Default Changelist" comment="" />
+      <created>1648896893466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648896893466</updated>
+      <workItem from="1648896894709" duration="1572000" />
+      <workItem from="1648970332881" duration="12194000" />
+      <workItem from="1652946604498" duration="2415000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="300" y="919" key="#SQL_Resolution_Scopes" timestamp="1649042723999">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="300" y="919" key="#SQL_Resolution_Scopes/0.0.3840.2120@0.0.3840.2120" timestamp="1649042723999" />
+    <state x="451" y="721" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1649043380107">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="451" y="721" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1649043380107" />
+    <state x="740" y="818" key="FileChooserDialogImpl" timestamp="1648897881737">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="740" y="818" key="FileChooserDialogImpl/0.0.3840.2120@0.0.3840.2120" timestamp="1648897881737" />
+    <state width="1150" height="637" key="GridCell.Tab.0.bottom" timestamp="1649043775583">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="1150" height="637" key="GridCell.Tab.0.bottom/0.0.3840.2120@0.0.3840.2120" timestamp="1649043775583" />
+    <state width="1150" height="637" key="GridCell.Tab.0.center" timestamp="1649043775581">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="1150" height="637" key="GridCell.Tab.0.center/0.0.3840.2120@0.0.3840.2120" timestamp="1649043775581" />
+    <state width="1150" height="637" key="GridCell.Tab.0.left" timestamp="1649043775580">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="1150" height="637" key="GridCell.Tab.0.left/0.0.3840.2120@0.0.3840.2120" timestamp="1649043775580" />
+    <state width="1150" height="637" key="GridCell.Tab.0.right" timestamp="1649043775581">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="1150" height="637" key="GridCell.Tab.0.right/0.0.3840.2120@0.0.3840.2120" timestamp="1649043775581" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1649042755345">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.3840.2120@0.0.3840.2120" timestamp="1649042755345" />
+    <state x="681" y="786" key="NewPhpClassDialog" timestamp="1652948479125">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="681" y="786" key="NewPhpClassDialog/0.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1652948479125" />
+    <state x="681" y="786" key="NewPhpClassDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1649040136499" />
+    <state x="794" y="986" key="NewPhpFileDialog" timestamp="1652948546440">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="794" y="986" key="NewPhpFileDialog/0.0.3840.2120/-3840.0.3840.2120@0.0.3840.2120" timestamp="1652948546440" />
+    <state x="794" y="986" key="NewPhpFileDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1649053200838" />
+    <state x="718" y="801" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1649042710765">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="718" y="801" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.3840.2120@0.0.3840.2120" timestamp="1649042710765" />
+  </component>
+</project>

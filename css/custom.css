@@ -1,0 +1,229 @@
+			
+				
+		div {
+
+  margin: 15px;
+
+}
+
+#explore{
+    background: linear-gradient(149deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 63%, rgba(222,193,0,1) 100%);
+    color: white;
+    font-size: max(1vw,15px);
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    justify-content: center;
+}
+
+#explore:hover{
+background: linear-gradient(139deg, rgba(34,193,195,1) 0%, rgba(213,214,16,1) 100%);
+
+}
+
+#logincontainer{
+    background: #fceabb;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(225deg, #ffcf3e, #ffe391);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(225deg, #ffd557, #ffe391); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+#logincontainer2{
+    background: #50C9C3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(35deg, #a2ece8, #50C9C3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(35deg, #a2ece8, #50C9C3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+        #signcontainer{
+            background: #fceabb;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(225deg, #ffd557, #ffe391);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(225deg, #ffd557, #ffe391); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+        }
+
+
+        #signcontainer2{
+            background: #50C9C3;  /* fallback for old browsers */
+            background: -webkit-linear-gradient(35deg, #a2ece8, #50C9C3);  /* Chrome 10-25, Safari 5.1-6 */
+            background: linear-gradient(35deg, #a2ece8, #50C9C3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+        }
+
+.cart_item_divider{
+	border: 1px solid #DEDBDB;
+	
+}
+
+
+
+.container_for_check {
+  display: inline-block;
+  position: relative;
+  padding-left: 27px;
+  margin-bottom: 25px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container_for_check input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.new_check {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #F5F5F5;
+  border-style: solid ;
+  border-width: 5px;
+  border-color: #DCDCDC;
+}
+
+/* On mouse-over, add a grey background color */
+.container_for_check:hover input ~ .new_check {
+  background-color: #DCDCDC;
+  border-color: #F5F5F5;
+  
+  
+}
+
+/* When the checkbox is checked, add a blue background */
+.container_for_check input:checked ~ .new_check {
+  background-color: #000000;
+  border-color: #DCDCDC;
+  
+}
+
+/* Create the new_check/indicator (hidden when not checked) */
+.new_check:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the new_check when checked */
+.container_for_check input:checked ~ .new_check:after {
+  display: block;
+}
+
+/* Style the new_check/indicator */
+.container_for_check .new_check:after {
+  left: 5px;
+  top: 2px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.sticky2 {
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 0;
+
+  width: 100vw;
+  background: white;
+
+}
+
+
+
+
+
+
+
+.display-3{
+	
+	font-size: min(10vw,80px);
+}
+
+.table th{
+    padding: 1px;
+}
+        .table-sm th{
+            padding: 1px;
+        }
+        .table td {
+            padding: 1px;
+        }
+        .table-sm td {
+            padding: 1px;
+        }
+
+
+        input:-webkit-autofill,
+        input:-webkit-autofill:hover,
+        input:-webkit-autofill:focus,
+        input:-webkit-autofill:active  {
+          transition: background-color 5000s ease-in-out 0s;        }
+
+
+
+
+
+        .responsive2 {
+            max-width: 10vw;
+            height: auto;
+        }
+.tab2{
+
+    border: 1px solid white;
+    padding: 0vw;
+
+}
+ .tab23{
+     padding: 0vw;
+     border:1px solid white;
+     border-bottom: 5px solid #ddd;
+
+
+ }
+
+
+
+        .prod_item_divider{
+            border: 10px solid #DEDBDB;
+
+        }
+
+        .navbar {
+            background: rgba(255,255,255,0.6) !important;  /* Give transparent white background to navbar */
+            /* 0.2 to give little whitish effect. */
+            /* Put 0 to get complete transperency */
+            z-index: 2;
+            backdrop-filter: blur(10px) saturate(125%);                   /* Blur the background */
+            /* 10px Gaussian Blur and saturate for fluent design */
+            -webkit-backdrop-filter: blur(10px) saturate(125%);           /* Increases browser compability (safari ios and mac) */
+            color: #0d0d0d;
+        }
+
+
+
+
+
+         .navbar-toggler {
+            color: rgba(0, 0, 0, 0.3);
+            border-color: rgba(0, 0, 0, 0.1)
+        }
+
+        .navbar-toggler-icon {
+            background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.3%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")
+        }
